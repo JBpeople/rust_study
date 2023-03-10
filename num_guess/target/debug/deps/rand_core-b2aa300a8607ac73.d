@@ -1,0 +1,10 @@
+/Volumes/移动固态/200 Study/rust_study/num_guess/target/debug/deps/rand_core-b2aa300a8607ac73.rmeta: /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/block.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/error.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/impls.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/le.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/os.rs
+
+/Volumes/移动固态/200 Study/rust_study/num_guess/target/debug/deps/rand_core-b2aa300a8607ac73.d: /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/block.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/error.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/impls.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/le.rs /Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/os.rs
+
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/lib.rs:
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/block.rs:
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/error.rs:
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/impls.rs:
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/le.rs:
+/Users/mac/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/rand_core-0.6.4/src/os.rs:
