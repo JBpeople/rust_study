@@ -1,1 +1,1 @@
-/Volumes/移动固态/200\ Study/minigrep/target/debug/minigrep: /Volumes/移动固态/200\ Study/minigrep/src/lib.rs /Volumes/移动固态/200\ Study/minigrep/src/main.rs
+E:\学习资料\CODE\rust_study\minigrep\target\debug\minigrep.exe: E:\学习资料\CODE\rust_study\minigrep\src\lib.rs E:\学习资料\CODE\rust_study\minigrep\src\main.rs
