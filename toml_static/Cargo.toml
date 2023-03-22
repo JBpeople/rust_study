@@ -1,0 +1,9 @@
+[package]
+name = "toml_static"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = {version= "1.0.158", features = ["derive"]}
+structopt = "0.3.26"
+toml = "0.7.3"

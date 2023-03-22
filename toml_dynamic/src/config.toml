@@ -1,0 +1,3 @@
+[input]
+xml_file = ".link/xml"
+json_file = ".link/json"
