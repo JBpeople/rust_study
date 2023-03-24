@@ -1,0 +1,21 @@
+{
+    "name": "Jane Doe",
+    "age": 25,
+    "is_student": true,
+    "grades": {
+    "math": 90,
+    "english": 85,
+    "science": 92
+    },
+    "visits": [
+        "2022-01-01",
+        "2022-02-14",
+        "2022-03-27"
+    ],
+    "address": {
+        "street": "456 Oak Ave",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    }
+}

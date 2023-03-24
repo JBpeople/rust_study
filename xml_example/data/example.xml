@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales-and-products>
+    <products>
+        <id>862</id>
+        <category>fruit</category>
+        <name>orange</name>
+    </products>
+    <sales>
+        <id>2020-7110</id>
+        <products-id>190</products-id>
+        <date>2023-03-14</date>
+        <quantity>2.0</quantity>
+        <unit>u</unit>
+    </sales>
+</sales-and-products>
