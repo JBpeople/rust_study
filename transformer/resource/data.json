@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John Smith",
+        "age": 20,
+        "gender": "male",
+        "major": "Computer Science",
+        "class": "CS101",
+        "score": {
+            "math": 80,
+            "english": 85,
+            "programming": 90
+        }
+    },
+    {
+        "name": "Jane Doe",
+        "age": 19,
+        "gender": "female",
+        "major": "Biology",
+        "class": "BIO101",
+        "score": {
+            "math": 75,
+            "english": 90,
+            "programming": 70
+        }
+    },
+    {
+        "name": "Tom Lee",
+        "age": 21,
+        "gender": "male",
+        "major": "Business Administration",
+        "class": "BA101",
+        "score": {
+            "math": 85,
+            "english": 80,
+            "programming": 75
+        }
+    }
+]

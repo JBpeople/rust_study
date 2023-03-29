@@ -1,0 +1,12 @@
+<student>
+    <name>John Smith</name>
+    <age>20</age>
+    <gender>male</gender>
+    <major>Computer Science</major>
+    <class>CS101</class>
+    <score>
+        <math>80</math>
+        <english>85</english>
+        <programming>90</programming>
+    </score>
+</student>
